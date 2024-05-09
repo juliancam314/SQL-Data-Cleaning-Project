@@ -9,7 +9,9 @@ My data cleaning process attempted to ensure accuracy, consistency, and reliabil
 
 ## Key Objectives
 -Data Consistency: Harmonizing disparate data sources and formats to establish uniformity.
+
 -Accuracy Enhancement: Addressing null data points to fortify the dataset's reliability.
+
 -Insightful Preparation: Aggregating and transforming raw data to unlock valuable insights and allow for better analysis.
 
 ## Repository Structure
